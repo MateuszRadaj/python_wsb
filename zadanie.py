@@ -14,7 +14,7 @@ while ans:
     2.Show elements added by me
     3.Show all elements
     4.Clear list
-    5.Find element by id
+    5.Find element by name
     """)
     ans=input("\n What would you like to do? ") 
     if ans=="1": 
